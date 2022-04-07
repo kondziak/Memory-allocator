@@ -1,3 +1,6 @@
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 # Memory allocator
   I wrote a memory allocator as a project for my subject called operating systems
 ## Acquired knowledge
